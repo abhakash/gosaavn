@@ -1,4 +1,4 @@
-package gosaavn
+package api
 
 // JioSaavn URLs
 const(
